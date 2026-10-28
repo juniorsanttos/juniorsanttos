@@ -60,9 +60,21 @@ Projeto de desenvolvimento de uma landing page para apresentação de serviços 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=juniorsanttos&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B9DFF&icon_color=6C91BF&text_color=C9D1D9" alt="Estatísticas do GitHub">
+<a href="https://github.com/juniorsanttos">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=juniorsanttos&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B9DFF&icon_color=6C91BF&text_color=C9D1D9"
+    alt="Estatísticas do GitHub de Jr"
+  />
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsanttos&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B9DFF&text_color=C9D1D9" alt="Linguagens mais presentes nos repositórios">
+<a href="https://github.com/juniorsanttos">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsanttos&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B9DFF&text_color=C9D1D9"
+    alt="Linguagens dos repositórios de Jr"
+  />
+</a>
 
 </div>
 
