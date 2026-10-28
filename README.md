@@ -30,16 +30,30 @@ Busco transformar conhecimentos teóricos em soluções funcionais, explorando d
 - ☁️ Aprendendo sobre infraestrutura em nuvem com AWS.
 - 🚀 Evoluindo por meio de projetos práticos e aprendizado contínuo.
 
-## 🛠️ Tecnologias e interesses
+## 🛠️ Tecnologias e ferramentas
 
-<div align="center">
+**Linguagens**
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+<div>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+</div>
 
+**Ferramentas e ambiente**
+
+<div>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=C9D1D9" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
+</div>
+
+**Áreas de estudo**
+
+<div>
+  <img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=python&logoColor=8B9DFF" alt="Automação"/>
+  <img src="https://img.shields.io/badge/Networking-0D1117?style=for-the-badge&logo=cisco&logoColor=6C91BF" alt="Redes"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=kalilinux&logoColor=8B9DFF" alt="Cibersegurança"/>
+  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS"/>
 </div>
 
 ## 🚀 Projetos em destaque
