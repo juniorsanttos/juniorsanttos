@@ -39,22 +39,19 @@ Construindo projetos, automatizando tarefas e explorando o universo da tecnologi
 ## 🚀 Projetos em destaque
 
 ### 📄 [PDF Data Extraction Automation](https://github.com/juniorsanttos/pdf-data-extraction-automation)
+Automação em Python para extrair informações de fichas de poço em PDF e consolidar os dados em arquivos CSV. Desenvolvido para reduzir o trabalho manual e tornar o processamento de documentos mais eficiente.
 
-Automação para extrair informações de arquivos PDF e organizar os dados em CSV, utilizando Python.
+**Tecnologias:** Python, pdfplumber, Regex e CSV.
 
-**Foco:** automação, processamento de documentos e extração de dados.
+### 🔎 [Fast Recon](https://github.com/juniorsanttos/FastRecon)
+Scanner de portas TCP desenvolvido em Python para fins educacionais. Utiliza sockets, multithreading e banner grabbing para explorar conceitos de redes e reconhecimento de serviços.
 
-### 🔎 [FastRecon](https://github.com/juniorsanttos/FastRecon)
-
-Projeto de exploração técnica e desenvolvimento de ferramentas.
-
-**Foco:** confira o repositório para conhecer as funcionalidades e tecnologias utilizadas.
+**Tecnologias:** Python, Socket, ThreadPoolExecutor e Networking.
 
 ### 🌐 [Campos Alves — Landing Page](https://github.com/juniorsanttos/Campos-Alves-Landing-Page)
+Landing page desenvolvida para apresentar serviços profissionais e facilitar o contato com potenciais clientes.
 
-Projeto de desenvolvimento de uma landing page para apresentação de serviços profissionais.
-
-**Foco:** desenvolvimento web e criação de presença digital.
+**Tecnologias:** HTML, CSS e JavaScript.
 
 ## 📊 Estatísticas do GitHub
 
