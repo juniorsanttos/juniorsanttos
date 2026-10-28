@@ -76,23 +76,8 @@ Landing page desenvolvida para apresentar serviços profissionais e facilitar o 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-<a href="https://github.com/juniorsanttos">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=juniorsanttos&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B9DFF&icon_color=6C91BF&text_color=C9D1D9"
-    alt="Estatísticas do GitHub de Jr"
-  />
-</a>
-
-<a href="https://github.com/juniorsanttos">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsanttos&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B9DFF&text_color=C9D1D9"
-    alt="Linguagens dos repositórios de Jr"
-  />
-</a>
-
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=juniorsanttos&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de juniorsanttos"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=juniorsanttos&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas por juniorsanttos"/>
 </div>
 
 ---
