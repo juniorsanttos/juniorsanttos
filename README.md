@@ -16,13 +16,23 @@ Construindo projetos, automatizando tarefas e explorando o universo da tecnologi
 
 ---
 
-## 🧑‍💻 Sobre mim
+👨‍💻 Sobre mim
 
-- 🎓 Estudante de Engenharia de Software.
-- 🐍 Desenvolvendo projetos com Python e explorando automação.
-- ☕ Estudando Java, orientação a objetos e desenvolvimento backend.
-- 🔐 Explorando cibersegurança, redes e infraestrutura em nuvem.
-- 🚀 Aprendendo na prática, um projeto de cada vez.
+Sou estudante de Engenharia de Software e gosto de aprender construindo projetos práticos.
+
+Atualmente, concentro meus estudos em Python e Java, com interesse em automação, desenvolvimento backend e cibersegurança.
+
+Busco transformar conhecimentos teóricos em soluções funcionais, explorando desde a programação e o processamento de dados até redes e infraestrutura.
+
+🐍 Desenvolvendo automações e ferramentas em Python.
+
+☕ Estudando Java, orientação a objetos e desenvolvimento backend.
+
+🔐 Explorando redes de computadores e cibersegurança.
+
+☁️ Aprendendo sobre infraestrutura em nuvem com AWS.
+
+🚀 Evoluindo por meio de projetos práticos e aprendizado contínuo.
 
 ## 🛠️ Tecnologias e interesses
 
