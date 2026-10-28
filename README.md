@@ -87,3 +87,11 @@ Landing page desenvolvida para apresentar serviços profissionais e facilitar o 
 *Aprendendo, construindo e evoluindo continuamente.* 💻
 
 </div>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/marivaldojuniorsants/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
