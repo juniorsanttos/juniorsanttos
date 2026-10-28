@@ -16,8 +16,6 @@ Construindo projetos, automatizando tarefas e explorando o universo da tecnologi
 
 ---
 
-<div align="center">
-
 ## 👨‍💻 Sobre mim
 
 Sou estudante de Engenharia de Software e gosto de aprender construindo projetos práticos.
