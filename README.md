@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Jr! 👋
+# Hello World, My Name Is Marivaldo Junior! 👋
 
 **Estudante de Engenharia de Software | Desenvolvedor em formação**
 
