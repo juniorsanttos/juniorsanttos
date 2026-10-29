@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello World, My Name Is Marivaldo Junior! 👋
+# Hello World, My Name Is Marivaldo Junior!
 
 **Estudante de Engenharia de Software | Desenvolvedor em formação**
 
@@ -16,7 +16,7 @@ Construindo projetos, automatizando tarefas e explorando o universo da tecnologi
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Sou estudante de Engenharia de Software e gosto de aprender construindo projetos práticos.
 
@@ -24,13 +24,13 @@ Atualmente, concentro meus estudos em Python e Java, com interesse em automaçã
 
 Busco transformar conhecimentos teóricos em soluções funcionais, explorando desde a programação e o processamento de dados até redes e infraestrutura.
 
-- 🐍 Desenvolvendo automações e ferramentas em Python.
-- ☕ Estudando Java, orientação a objetos e desenvolvimento backend.
-- 🔐 Explorando redes de computadores e cibersegurança.
-- ☁️ Aprendendo sobre infraestrutura em nuvem com AWS.
-- 🚀 Evoluindo por meio de projetos práticos e aprendizado contínuo.
+- Desenvolvendo automações e ferramentas em Python.
+- Estudando Java, orientação a objetos e desenvolvimento backend.
+- Explorando redes de computadores e cibersegurança.
+- Aprendendo sobre infraestrutura em nuvem com AWS.
+- Evoluindo por meio de projetos práticos e aprendizado contínuo.
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 **Linguagens**
 
@@ -56,7 +56,7 @@ Busco transformar conhecimentos teóricos em soluções funcionais, explorando d
   <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS"/>
 </div>
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 ### 📄 [PDF Data Extraction Automation](https://github.com/juniorsanttos/pdf-data-extraction-automation)
 Automação em Python para extrair informações de fichas de poço em PDF e consolidar os dados em arquivos CSV. Desenvolvido para reduzir o trabalho manual e tornar o processamento de documentos mais eficiente.
@@ -73,7 +73,7 @@ Landing page desenvolvida para apresentar serviços profissionais e facilitar o 
 
 **Tecnologias:** HTML, CSS e JavaScript.
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=juniorsanttos&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de juniorsanttos"/>
